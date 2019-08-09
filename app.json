@@ -1,0 +1,7 @@
+{
+  "name": "Belloo Discord",
+  "description": "Powered by Premium Dating Script",
+  "repository": "https://github.com/xohan/belloo-discord",
+  "logo": "https://www.premiumdatingscript.com/dashboard/logo-p.jpg",
+  "keywords": ["node", "express", "static"]
+}

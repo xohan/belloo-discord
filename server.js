@@ -1,9 +1,8 @@
 const Discord = require('discord.js');
 const fetch = require('node-fetch');
 var schedule = require('node-schedule');
-
 const client = new Discord.Client()
-client.login(process.env.BOT_TOKEN)
+client.login('NDg1NDQ0MTUxODk1MTMwMTIw.XUy7YA.py2zZAG6wxcfaMtRLN5ghhdAOK0')
 
 client.on('ready', () => {
 
